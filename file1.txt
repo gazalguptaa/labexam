@@ -1,0 +1,6 @@
+<<<<<<< file1.txt
+29/04/2022
+Aaksha Dubey
+=======
+E19CSE125
+>>>>>>> file2.txt
